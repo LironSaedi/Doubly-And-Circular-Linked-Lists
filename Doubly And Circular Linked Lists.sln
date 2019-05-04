@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doubly And Circular Linked Lists", "Doubly And Circular Linked Lists\Doubly And Circular Linked Lists.csproj", "{0798A2AB-8F11-4C43-AE86-1D62985D0E32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0798A2AB-8F11-4C43-AE86-1D62985D0E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0798A2AB-8F11-4C43-AE86-1D62985D0E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0798A2AB-8F11-4C43-AE86-1D62985D0E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0798A2AB-8F11-4C43-AE86-1D62985D0E32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C166EE27-6F2F-4B4B-A95E-05D7400A379F}
+	EndGlobalSection
+EndGlobal
